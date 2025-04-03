@@ -67,6 +67,6 @@
 
 ## 🏆 GitHub Trophies
 <br clear="both">
-<img src="https://raw.githubusercontent.com/nabunabil/nabunabil/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/nabunabil/nabunabil/blob/main/github-user-contribution.svg" alt="Snake animation" />
 
 ###
