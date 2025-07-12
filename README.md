@@ -17,7 +17,7 @@
 
 <h2 align="left">🚀 Skills</h2>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Coder GIF" width="380">
 
 
 ### 🖥 Frontend
