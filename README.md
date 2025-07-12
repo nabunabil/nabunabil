@@ -48,13 +48,13 @@
 
 <h2 align="left">🌍 Connect with Me</h2>
 <div align="left">
-  <a href="https://twitter.com/xahid_420" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/twitter/follow/xahid_420?logo=twitter&style=for-the-badge" alt="Twitter badge" />
   </a>
-  <a href="https://linkedin.com/in/ajnahid" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>
-  <a href="https://instagram.com/ab.nahid_ff" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge" />
   </a>
 </div>
